@@ -1,0 +1,24 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "learning webpack",
+  "main": "app.js",
+  "dependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siemik/webpack-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siemik/webpack-config/issues"
+  },
+  "homepage": "https://github.com/Siemik/webpack-config#readme"
+}
